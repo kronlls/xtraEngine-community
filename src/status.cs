@@ -24,7 +24,7 @@ class stat{
 
 
   
-  public static void status(){
+  public static void status(string[] args){
   
   Console.WriteLine("if you are reading this: initialization success!");
     //[-] Writes message confirming the initialization
