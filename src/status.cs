@@ -40,7 +40,7 @@ namespace status
                 }
                 catch (HttpRequestException)
                 {
-                    Console.WriteLine(" ERROR!: HTTP Site Status Offline, modify the \'ping'\ string and input a valid domain.");
+                    Console.WriteLine(" ERROR!: HTTP Site Status Offline, modify the 'ping' string and input a valid domain.");
                 }
             }
         }
