@@ -1,12 +1,16 @@
 using System;
 using System.Net.Http;
 using System.Threading.Tasks;
+using System.Text;
 /* 
 [-] Init function script
 [-] Written 12/29/23
 [-] WARNING: DO NOT REWRITE THIS UNLESS YOU HAVE KNOWLEDGE ON THE PROGRAM. 
 */
 
+namespace status
+{
+  
 class stat{
   
    static void SleepFunc(int mlsec){
@@ -57,3 +61,4 @@ class stat{
     }
 }
 
+}
