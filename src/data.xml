@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <ngn>
+  <filesys ext=".xngn">fsys.jav</filesys>
+  <br/>
+   <compile lang="c#" for="app/main/manager">/src/status.cs</compile>
+   <br/>
+   <compile lang="Java" for="ui"> /src/java/Mainf.java</compile>
+   <br/>
+  <version type="Community">Open-source community release</version>
+
+ <!--
+  xtraEngine data document
+   
+   Written by Shane L. @ Kron Game Dev
+   -->
+
+ </ngn>
